@@ -11,7 +11,7 @@ Part of the [Srinivasan Group](https://srinivasan.jqi.umd.edu) at JQI. Maintaine
 | 🎨 [**ScientificGraphicDesign**](https://github.com/JQInanophotonics/ScientificGraphicDesign) | Plotting conventions, making figures publication-ready, Illustrator styles, Blender boilerplates, fonts |
 | 🎤 [**ScientificPresentations**](https://github.com/JQInanophotonics/ScientificPresentations) | Slide decks, Beamer, and general talk/presentation design |
 | 🗃️ [**ScientificDataManagement**](https://github.com/JQInanophotonics/ScientificDataManagement) | Rules for collecting and organizing data, folder/naming conventions, and how to compile & archive data for published papers |
-| ✍️ **ScientificWriting** *(coming soon)* | How to write a scientific paper, structure, and handling bibliography/citations |
+| ✍️ [**ScientificWriting**](https://github.com/JQInanophotonics/ScientificWriting) | How to write a scientific paper, structure, and handling bibliography/citations |
 
 ## Where to start
 
