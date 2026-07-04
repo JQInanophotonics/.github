@@ -136,6 +136,16 @@ directly as "fucking redundant" in the repo this pattern originated from.
 `structuring-a-talk`, etc.) — reuse it consistently for both the light and
 dark asset filenames.
 
+**If a top badge links to `#SLUG` (e.g. a "PAGES" badge linking to a Pages
+section), add an explicit `<a id="SLUG"></a>` immediately above that
+section's banner.** Deleting the literal `## Section Title` heading also
+deletes the only thing that gives GitHub's auto-generated `#slug` anchor
+to exist — without the explicit anchor, the badge silently 404s. This bit
+the original `ScientificPresentations` implementation (its `#pages` badge
+was broken until this was caught while applying the pattern to
+`ScientificGraphicDesign`) — check for this on every repo this pattern is
+applied to, not just the one where it was first found.
+
 At the very top of the README, before the first banner:
 
 ```markdown
